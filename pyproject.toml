@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "attngeom"
-version = "0.1.0"
+version = "0.1.1"
 description = "Attention-based geometric representation for data analysis"
 readme = "README.md"
 license = { file = "LICENSE" }
