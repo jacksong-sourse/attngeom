@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/<你的包名>
+      url: https://pypi.org/p/attngeom
     permissions:
       id-token: write  # OIDC 必需
     steps:
