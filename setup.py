@@ -10,12 +10,12 @@ with open("attngeom/version.py", "r") as f:
 setup(
     name="attngeom",
     version=__version__,
-    author="Data Geometry Team",
-    author_email="team@attngeom.dev",
+    author="宋梓铭",
+    author_email="15011462616@163.com",
     description="Attention-based geometric representation for data analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/attngeom/attngeom",
+    url="https://github.com/jacksong-sourse/attngeom",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

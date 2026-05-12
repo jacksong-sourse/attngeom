@@ -180,7 +180,7 @@ plt.show()
 
 ```bash
 # 克隆仓库
-git clone https://github.com/attngeom/attngeom.git
+git clone https://github.com/jacksong-sourse/attngeom.git
 cd attngeom
 
 # 安装依赖
@@ -205,14 +205,14 @@ MIT License
 ```
 @software{attngeom,
   title = {attngeom: Attention-based Geometric Representation},
-  author = {Data Geometry Team},
-  year = {2024},
-  url = {https://github.com/attngeom/attngeom},
+  author = {宋梓铭},
+  year = {2026},
+  url = {https://github.com/jacksong-sourse/attngeom},
 }
 ```
 
 ## 联系方式
 
-- GitHub: [https://github.com/attngeom/attngeom](https://github.com/attngeom/attngeom)
+- GitHub: [https://github.com/jacksong-sourse/attngeom](https://github.com/jacksong-sourse/attngeom)
 - PyPI: [https://pypi.org/project/attngeom](https://pypi.org/project/attngeom)
-- 邮件: team@attngeom.dev
+- 邮件: 15011462616@163.com
